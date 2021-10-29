@@ -1,4 +1,4 @@
-# Spectral-Forecast-equation-for-signals
+# Spectral Forecast equation for signals
 Spectral Forecast equation for signals
 
 
