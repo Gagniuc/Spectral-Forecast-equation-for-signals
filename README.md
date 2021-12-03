@@ -1,5 +1,6 @@
 # Spectral Forecast equation for signals
-Spectral Forecast equation for signals
+One of the easiest applications to understand the spectral forecast equation is related to signals. A question that can be asked would be: given two signals A and B, what would a third signal M look like if it must resemble both signals in a certain proportion? For instance, a signal M may be required to resemble signal A in a proportion of 23% and signal B in a remaining proportion of 77%. This is exactly what the spectral equation provides, namely a direct way of obtaining such an intermediary signal.
+
 
 # Info on Spectral Forecast
  Please read more about Spectral Forecast here:
