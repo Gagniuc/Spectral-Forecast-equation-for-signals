@@ -12,7 +12,7 @@ One of the easiest applications to understand the spectral forecast equation is 
  
  # Live demo
 
-Live demo: https://gagniuc.github.io/Spectral-Forecast-equation-for-signals/
+**Live demo**: https://gagniuc.github.io/Spectral-Forecast-equation-for-signals/
 
 <kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals/blob/main/img/Spectral%20Forecast%20equation%20for%20signals.png?raw=true" /></kbd>
 
